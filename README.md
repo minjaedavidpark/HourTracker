@@ -6,7 +6,7 @@ A program that helps you keep track of study/work hours.
 ![alt text](https://github.com/minjaedavidpark/HourTracker/blob/main/docs/images/hourTracker_motivation.png)
 
 This is a side project that I have been building everything from the stratch. \
-I have personally been using Excel to keep track of my study hours every week from Monday to Sunday like in the picture above.\
+I have personally created and been using Excel to keep track of my study hours every week from Monday to Sunday like in the picture above.\
 This program does exactly the same job as the Excel file. It calculates the total sum of study hours of the week, and according to that sum and your goal hours, smily/sad faces pop up. 
 
 ### Ultimate plan for this program
